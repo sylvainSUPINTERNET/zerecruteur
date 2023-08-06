@@ -1,0 +1,4 @@
+pinecone-client==2.2.2
+transformers==4.31.0
+torch==2.0.1
+PyPDF2==3.0.1
